@@ -10,6 +10,7 @@ public class Task_195 {
     public void run() throws IOException {
         Scanner sc = new Scanner(new File("INPUT.TXT"));
         int a = sc.nextInt();
+        System.out.println(a);
         int b = sc.nextInt();
         int c = sc.nextInt();
         int result = 0;
