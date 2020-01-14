@@ -11,7 +11,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Task_46 {public static void main(String[] argv) throws IOException {new Task_46().run();}
-    public static final BigDecimal f = new BigDecimal(2.7182818284590452353602875);
+    public static final BigDecimal f = new BigDecimal("2.7182818284590452353602875");
 
     public void run() throws IOException{
         System.out.println(f);
